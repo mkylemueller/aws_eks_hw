@@ -1,5 +1,8 @@
 # aws_eks_hw
 
+using AWS EKS and Terraform to stand up a kube supported application. 
+
+Missing is backend datastorage for holding TF state files. 
 ## Problem 
 The Amazon Elastic Kubernetes Service (EKS) is the AWS service for deploying, managing, and scaling containerized applications with Kubernetes.
 
